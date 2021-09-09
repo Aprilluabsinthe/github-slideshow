@@ -1,4 +1,4 @@
-![pic1](https://www.amazon.com/photos/album/uRhaTSavQPWea8IENSFIsA/gallery/JCUKoknaQ8WrYTHfgdiqSA)
+![pic1](https://thumbnails-photos.amazon.com/v1/thumbnail/JCUKoknaQ8WrYTHfgdiqSA?viewBox=2192%2C2018&ownerId=A1IBMI3ZD4K8DQ&groupShareToken=c515rYkTQnynOZGWJBx4RA.Ub0-8XIjL8T6Kxz-gvMMzJ)
 
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
